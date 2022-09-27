@@ -33,11 +33,11 @@
 }
 
 .black {
-  background-color: rgba(0, 128, 128, 0.763);
+  background-color: rgba(82, 69, 69, 0.763);
 }
 
 .white {
-  background-color: rgb(206, 208, 207);
+  background-color: rgba(255, 158, 2, 0.335);
 }
 
 .selected {
